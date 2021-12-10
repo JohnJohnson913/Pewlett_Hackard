@@ -26,7 +26,11 @@ In a situation like what we are seeing there are likelying going to need to be m
 
   1.  The overall volume of employees who could potentially retire currently stands at 90,398 individuals.  Simply a stagering amount of knowledge leaving the company.  
 
-  2.  Currently, our analysis shows that we will only have 1,549 individuals who will be able to mentor new individuals entering the company.   In my opinion these are are not enough individuals to be available to mentor the newly hired employees.  My quick math shows that each mentor would 
-      need to have just under 60 meeting a week to provide feedback and guidance.  However, if we include employees also born in 1964 the numbers increase greatly.  We could increase our potential mentorship program to nearly 20,000 employees. 
-      Employees born in 1965 just don't account for enough individuals to support the plan.  Including individuals from 1964 birthdates would include employees in enough volume to account for the necessary mentor staff to suppport our needs. I've supplied a screenshot of an additional table showing the increase in 
-      the volumes of individuals born in 1964.
+  2.  Currently, our analysis shows that we will only have 1,549 individuals who will be able to mentor new individuals entering the company.   In my opinion these are are not enough individuals to be available to mentor the newly hired employees.  My quick math shows that each mentor would need to have just under 60 meeting a week to provide feedback and guidance.  However, if we include employees also born in 1964 the numbers increase greatly.  We could increase our potential mentorship program to nearly 20,000 employees. 
+Employees born in 1965 just don't account for enough individuals to support the plan.  
+
+https://github.com/JohnJohnson913/Pewlett_Hackard/blob/a38dcd69053fe52e6bda6b9d4748c210c7ce9349/Mentorship_expansion.png
+
+Including individuals from 1964 birthdates would include employees in enough volume to account for the necessary mentor staff to suppport our needs. I've supplied a screenshot of an additional table showing the increase in the volumes of individuals born in 1964.
+
+https://github.com/JohnJohnson913/Pewlett_Hackard/blob/a38dcd69053fe52e6bda6b9d4748c210c7ce9349/Mentorship_expansion_showing_age_groupings.png
