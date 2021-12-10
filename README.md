@@ -31,6 +31,6 @@ Employees born in 1965 just don't account for enough individuals to support the 
 
 https://github.com/JohnJohnson913/Pewlett_Hackard/blob/a38dcd69053fe52e6bda6b9d4748c210c7ce9349/Mentorship_expansion.png
 
-Including individuals from 1964 birthdates would include employees in enough volume to account for the necessary mentor staff to suppport our needs. I've supplied a screenshot of an additional table showing the increase in the volumes of individuals born in 1964.
+Including individuals from 1964 birthdates would include employees in enough volume to account for the necessary mentor staff to suppport our needs. I've supplied a screenshot of an additional table showing the increase in the volumes of individuals born in 1964.  The screenshot shows that the majority of employees are born in 1964 as i've clustered the birthdates for demonstration of when they were born.
 
 https://github.com/JohnJohnson913/Pewlett_Hackard/blob/a38dcd69053fe52e6bda6b9d4748c210c7ce9349/Mentorship_expansion_showing_age_groupings.png
