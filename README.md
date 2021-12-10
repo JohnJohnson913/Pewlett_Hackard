@@ -9,7 +9,12 @@ group of employees when that time comes.
 We will begin with the findings from the investigation of who is elibigle for retirement.  The organization currently stands at to lose a significant volume of employees.  
 
  - The most significant volume of employees that are at risk of leaving the company are the engineering department at 45,397 employees.  This would land a significant blow to the department, not only from a capacity standpoint, but also from a tribal knowledge standpoint.
- - Though we have roughly 670 individuals that could be used to mentor individuals from the retirement wave, it's not enough to fully engage new talent to replace the knowledge walking out the door.  Additional recommendation will be needed.
+
+https://github.com/JohnJohnson913/Pewlett_Hackard/blob/a38dcd69053fe52e6bda6b9d4748c210c7ce9349/potential_retirees.png
+
+ - Though we have roughly 670 individuals that could be utilzzed to mentor individuals from the retirement wave, it's not enough to fully engage new talent to replace the knowledge walking out the door.  Additional recommendation will be needed.
+
+https://github.com/JohnJohnson913/Pewlett_Hackard/blob/a38dcd69053fe52e6bda6b9d4748c210c7ce9349/Mentorship_Program_Options.png
 
  - Not far behind the engineering department is the staff department.  Currently we could see 40,497 individuals leave from these roles.  Even though these may not seem as critical as losing the engineering staff, they do provide a critical role.  
  - As much like with the engineering department	we only have 724 individuals from the staff level positions.  This again is short of the numbers needed to provide a adaqueate level of mentorship to incoming employees.
