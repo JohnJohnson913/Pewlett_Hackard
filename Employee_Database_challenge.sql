@@ -58,7 +58,7 @@ group by
 	e.last_name,
 	de.from_date,
 	de.to_date
-order by last_name;
+order by emp_no;
 
 SELECT * FROM mentorship_elegibility;
 
